@@ -1,14 +1,14 @@
-{:site-title       "My Awesome Blog"
- :author           "Bob Bobbert"
- :description      "This blog is awesome"
- :site-url         "http://blogawesome.com/"
+{:site-title       "(def www-ferz-co? \"Pashka's Den\")"
+ :author           "ferz"
+ :description      "Pavel Razuvayev | Personal Blog"
+ :site-url         "http://www.ferz.co/"
  :post-root        "posts"
  :tag-root         "tags"
  :page-root        "pages"
  :blog-prefix      ""
  :rss-name         "feed.xml"
  :rss-filters      ["cryogen"]
- :recent-posts     3
+ :recent-posts     1
  :post-date-format "yyyy-MM-dd"
  :sass-src         nil
  :sass-dest        nil
