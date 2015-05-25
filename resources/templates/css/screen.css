@@ -10,6 +10,14 @@ body {
     background-image: url("background.jpg");
 }
 
+a {
+    color: #848658;
+}
+
+a:hover, a:focus {
+    color: #B13816;
+} 
+
 /* main content */
 .col-lg-9 {
     background-color: #F5D3A6;
@@ -52,7 +60,7 @@ body {
 
 .navbar-default .navbar-brand {
     color: #A07230;
-    font-family: 'Alegreya';
+    font-family: 'Courier';
 }
 
 .navbar-default .navbar-brand:hover {
@@ -153,7 +161,8 @@ pre, code, .hljs {
 
 @media (min-width: 400px) {
     .navbar-default .navbar-brand {
-        font-size: 36px;
+        font-size: 21px;
+        font-style: italic;
         padding: 25px 15px;
     }
     #content{
