@@ -1,7 +1,7 @@
-{:site-title       "(def www-ferz-co? \"Pashka's Den\")"
- :author           "ferz"
- :description      "Pavel Razuvayev | Personal Blog"
- :site-url         "http://www.ferz.co/"
+{:site-title       "Ferz"
+ :author           "Pavel Razuvayev"
+ :description      "Pashka's Den"
+ :site-url         "http://ferz.co/"
  :post-root        "posts"
  :tag-root         "tags"
  :page-root        "pages"
@@ -12,8 +12,8 @@
  :post-date-format "yyyy-MM-dd"
  :sass-src         nil
  :sass-dest        nil
- :resources        ["css" "js" "404.html"]
- :keep-files       [".git" "CNAME"]
- :disqus?          false
+ :resources        ["css" "js" "img" "404.html"]
+ :keep-files       [".git"]
+ :disqus?          true
  :disqus-shortname ""
  :ignored-files    [#"\.#.*" #".*\.swp$"]}
