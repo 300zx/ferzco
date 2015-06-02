@@ -15,5 +15,5 @@
  :resources        ["css" "js" "img" "404.html"]
  :keep-files       [".git" "CNAME"]
  :disqus?          true
- :disqus-shortname ""
+ :disqus-shortname "ferzco"
  :ignored-files    [#"\.#.*" #".*\.swp$"]}
