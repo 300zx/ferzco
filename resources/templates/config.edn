@@ -14,6 +14,6 @@
  :sass-dest        nil
  :resources        ["css" "js" "img" "404.html"]
  :keep-files       [".git" "CNAME"]
- :disqus?          true
+ :disqus?          false
  :disqus-shortname "ferzco"
  :ignored-files    [#"\.#.*" #".*\.swp$"]}
